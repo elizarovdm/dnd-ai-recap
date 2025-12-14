@@ -23,5 +23,5 @@
 * [Дневник тени 1](https://disk.yandex.ru/i/LCquk7ysk2UvOA)
   
 ### Аудиокниги:
-* [Дневник Зандара Симбера](https://disk.yandex.ru/d/jUXdH1BizILRVw
+* [Дневник Зандара Симбера](https://disk.yandex.ru/d/jUXdH1BizILRVw)
 
