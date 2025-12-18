@@ -4,7 +4,7 @@
 
 ### Основная кампания:
 * [Сессия 4: Ночь в „Громовой Ящерице“](chult/4_25.10.md)
-   * [Аромат зелёного дракона](https://disk.yandex.ru/d/kQ6hsvCtPKNpBw)
+   * [Аромат зелёного дракона](chult/stories/green_dragon.md)
    * [Танец двух хищников](https://disk.yandex.ru/d/SlVDUpINMHl0vA)
 * [Сессия 5: Тень над Чултом](chult/5_01.11.md)
    * [Шепот во тьме](https://disk.yandex.ru/d/Tog-246gjNVgeQ)
